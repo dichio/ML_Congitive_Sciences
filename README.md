@@ -1,7 +1,7 @@
 # Machine Learning: Theory and Applications — Practical Sessions
 
-**Course:** *Machine Learning: Theory and Applications*  
-**Program:** Master in Cognitive Sciences, ENS–PSL  
+**Course:** *Machine Learning: Theory and Applications* (M2, Fall Semester)
+**Program:** [Master in Cognitive Sciences](https://psl.eu/en/education/cognitive-science), ENS–PSL, Paris, France
 **Lecturer:** Simona Cocco  
 **Teaching Assistant:** [Vito Dichio](https://sites.google.com/view/vito-dichio/home) — vito.dichio@psl.eu
 
@@ -20,6 +20,12 @@ This repository contains the starting notebooks for the practical sessions (TDs)
 | 5 | `5_Perceptron_MNIST.ipynb` | Perceptron |
 | 6 | `6_Perceptron_OVO_MNIST.ipynb` | Multi-Class Perceptron |
 | 7 | `7_HMM_zebrafish.ipynb` | Hidden Markov Models for Behavioral Analysis |
+
+The notebooks are designed to be self-contained, with instructions and explanations included. They are meant to be used as a starting point for the practical sessions, where you will implement the missing parts and run the analyses. 
+
+These notebooks are partially based on the code developed by the previous teaching assistant, [Jorge Ferndandez de Cossio Diaz](https://sites.google.com/view/jorgefdcd/home).
+### Solutions
+📬 Solutions are not publicly available. If you are an instructor and would like access, please get in touch at vito.dichio@psl.eu
 
 ---
 
