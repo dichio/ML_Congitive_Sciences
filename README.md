@@ -1,8 +1,8 @@
 # Machine Learning: Theory and Applications — Practical Sessions
 
-**Course:** *Machine Learning: Theory and Applications* (M2, Fall Semester)
+**Course:** *Machine Learning: Theory and Applications* (M2, Fall Semester)  
 **Program:** [Master in Cognitive Sciences](https://psl.eu/en/education/cognitive-science), ENS–PSL, Paris, France  
-**Lecturer:** Simona Cocco  
+**Lecturer:** [Simona Cocco](http://www.lps.ens.fr/~cocco/)  
 **Teaching Assistant:** [Vito Dichio](https://sites.google.com/view/vito-dichio/home) — vito.dichio@psl.eu
 
 ---
